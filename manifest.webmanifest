@@ -1,0 +1,13 @@
+{
+  "name": "Dhamma School Manager",
+  "short_name": "Daham Pasala",
+  "description": "Students, attendance, exams, events and prefects for Dhamma schools.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#8a2432",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
